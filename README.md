@@ -37,8 +37,4 @@ sudo docker network connect myNetwork my-aafire-2
 ```
 **ТЕСТ**
 
-```bash
-sudo docker exec -it my-aafire-1 ping my-aafire-2
-```
-
 ![image](https://github.com/user-attachments/assets/f61640b5-ab0a-4378-b9b4-3ced24262050)
